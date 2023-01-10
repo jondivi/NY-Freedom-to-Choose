@@ -1,1 +1,1 @@
-Site forNY Freedom to Choose Volunteering work
+Site for NY Freedom to Choose Volunteering work
