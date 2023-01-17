@@ -2693,12 +2693,16 @@ input, select, textarea {
 		}
 
 	ul {
-		list-style: disc;
+		list-style: square;
 		margin: 0 0 2rem 0;
 		padding-left: 1rem;
 	}
 
 		ul li {
+			padding-left: 0.5rem;
+		}
+		ul li.takeAction{
+			list-style-type:square;
 			padding-left: 0.5rem;
 		}
 
